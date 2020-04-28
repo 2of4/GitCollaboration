@@ -11,3 +11,7 @@ Git Collaboration Workshop
 - 'git swtich -c <branch name>': create and move in 1 command
 	- 'git checkout -b <branch name>' 
 
+- 'git stash': temp saves current state as commit so you can 'checkout' or 'switch'
+	- 'git stash apply' to apply the last stash from the stack
+
+
