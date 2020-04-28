@@ -15,3 +15,11 @@ Git Collaboration Workshop
 	- 'git stash apply' to apply the last stash from the stack
 
 
+- 'git push origin <branch name>' : pushes branch to the remote
+	- this is where you will create the Push Request (online)
+	- you merege the PR (and also the branch) by accepting and merging the PR
+- don't foret to clean up your branches
+- 'git fetch' --prine': clean sup the references in your 'git log --oneline --graph --decorate --all'
+- 'git branch -d <branch_name> : delete branch on your local machine
+	- it will tell you to move to another branch (e.g., 'master') first
+
